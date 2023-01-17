@@ -11,7 +11,7 @@ export default function App() {
         ref={video}
         style={styles.video}
         source={{
-          uri: "https://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4",
+          uri: "https://d278.d2mefast.net/tb/5/37/justin_bieber_baby_ft._ludacris_aac_52554.m4a?play",
         }}
         useNativeControls
         resizeMode="contain"
